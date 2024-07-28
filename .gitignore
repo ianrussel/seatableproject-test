@@ -167,3 +167,4 @@ pyvenv.cfg
 include/
 lib64
 bin
+scraper.py
