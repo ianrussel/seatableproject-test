@@ -1,6 +1,6 @@
 import pandas as pd
 """ percentage if no competitor"""
-max_price_percent_nc = 0.010  # in percent if no competitot
+max_price_percent_nc = 0.10  # in percent if no competitot
 min_price_percent_nc = 0.05  # in percent if no competitor
 
 """percentage if theres a competitor"""
